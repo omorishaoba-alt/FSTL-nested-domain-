@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FSTL Services & Payment</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Secure Your Landed Property Rights</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="pay.html">Services</a></li>
+      <li><a href="news.html">News & Updates</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+<main>
+  <section>
+    <h2>Premium Access: 50,000 NGN</h2>
+    <p>Gain read-only access to secure property documents and verification reports. Payment is required before documents can be downloaded or accessed.</p>
+    <p>Payment Instructions:</p>
+    <ul>
+      <li>Bank: First Bank</li>
+      <li>Account Name: HRH AYODELE OGUNJE</li>
+      <li>Account Number: 2007270259</li>
+      <li>Email payment confirmation to: Kabiyesi@fstl.com.ng</li>
+    </ul>
+  </section>
+</main>
+<footer>
+  <p>&copy; 2025 First Standard Title Limited | RC: 714548</p>
+</footer>
+</body>
+</html>
