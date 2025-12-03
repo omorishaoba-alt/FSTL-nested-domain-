@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact FSTL</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Contact First Standard Title Limited</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="pay.html">Services</a></li>
+      <li><a href="news.html">News & Updates</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+<main>
+  <section>
+    <h2>Get in Touch</h2>
+    <p><strong>Address:</strong> No. 19 Egbor Avenue, off Benoni Hospital Road, GRA, Benin City</p>
+    <p><strong>Phone:</strong> +2348035888622</p>
+    <p><strong>Email:</strong> Kabiyesi@fstl.com.ng</p>
+  </section>
+</main>
+<footer>
+  <p>&copy; 2025 First Standard Title Limited | RC: 714548</p>
+</footer>
+</body>
+</html>
