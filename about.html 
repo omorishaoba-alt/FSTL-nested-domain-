@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About FSTL</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>About First Standard Title Limited</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="pay.html">Services</a></li>
+      <li><a href="news.html">News & Updates</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+<main>
+  <section>
+    <h2>Our Vision</h2>
+    <p>FSTL is dedicated to establishing Secure Landed Property Rights (SLPR) as the foundation for economic growth in Nigeria. We ensure that property owners, investors, and professionals have the tools to secure, capitalise, and defend their assets.</p>
+  </section>
+  <section>
+    <h2>Our Services</h2>
+    <ul>
+      <li>Verification and Documentation of Landed Properties</li>
+      <li>Title Insurance and Risk Assessment</li>
+      <li>Legal Guidance on Property Disputes</li>
+      <li>Secure Read-Only Access to Premium Property Documents</li>
+    </ul>
+  </section>
+  <section>
+    <h2>Authority and Compliance</h2>
+    <p>FSTL operates under RC: 714548 and adheres strictly to Nigerian land law precedents and international best practices. Our work empowers both the public and professionals to make informed, secure property decisions.</p>
+  </section>
+</main>
+<footer>
+  <p>&copy; 2025 First Standard Title Limited | RC: 714548</p>
+</footer>
+</body>
+</html>
